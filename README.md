@@ -24,4 +24,4 @@ Html, CSS, JavaScript, bootstrap  are the Frameworks/Technologies used.
 - Suryakant Patwardhan
 - Siddhartha Chatterjee
 
-https://sk4803.github.io/Electrothon-4.0/
+Website : https://sk4803.github.io/Electrothon-4.0/

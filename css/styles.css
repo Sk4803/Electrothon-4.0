@@ -128,6 +128,18 @@ p{
   margin: 20px 20px 50px;
 }
 
+/* Footer */
+
 #footer{
+  padding: 7% 15%;
   text-align: center;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
+
+.social-icon:hover{
+  cursor: pointer;
+  color: #357C3C;
 }

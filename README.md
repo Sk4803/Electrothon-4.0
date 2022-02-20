@@ -14,9 +14,9 @@ Our project involves collaborations between service providers like food banks, m
 Html, CSS, JavaScript, bootstrap  are the Frameworks/Technologies used.
 
 # 💡 Features:
-1.We will be implementing our solution in the form of website  as well as in the form of mobile application for users to use it with great ease.
+1. We will be implementing our solution in the form of website  as well as in the form of mobile application for users to use it with great ease.
 
-2.Useful for people wishing to minimize the wastage of food as well as for the underprivilege part of country preventing them from starvation.
+2. Useful for people wishing to minimize the wastage of food as well as for the underprivilege part of country preventing them from starvation.
 
 # 🤝 Project By:
 - Priyaranjan Mishra
